@@ -62,5 +62,5 @@
 <!-- ССЫЛКИ И КОНТАКТЫ (МОЖНО ДОБАВИТЬ ПО ЖЕЛАНИЮ) -->
 ## 📫 Связаться со мной
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ваш_ник) 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ваша_почта@example.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lieonme3) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:borgrinvud@example.com)
