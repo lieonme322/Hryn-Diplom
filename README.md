@@ -1,8 +1,3 @@
 <h1 align="center">Добрый день, меня зовут <a target="_blank">Борис Гринь</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">grin_ba1_22  
-Курс 4, семестр 8  
-Специальность: Искусственный интеллект  
-Вид проекта: дипломная работа
-
-## Название проекта</h3>
+<h3 align="center"[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)</h3>
