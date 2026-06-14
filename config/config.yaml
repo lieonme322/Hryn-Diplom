@@ -1,0 +1,33 @@
+# Конфигурация системы анализа заполненности полок
+
+data:
+  raw_path: "data/raw/"
+  annotated_path: "data/annotated/"
+  train_split: 0.7
+  val_split: 0.2
+  test_split: 0.1
+  image_size: [640, 640]
+  batch_size: 8
+
+model:
+  name: "faster_rcnn"
+  backbone: "resnet50_fpn"
+  num_classes: 2  # фон + пустая область
+  pretrained: true
+  confidence_threshold: 0.5
+
+training:
+  epochs: 35
+  learning_rate: 0.0001
+  optimizer: "adam"
+  device: "cuda"  # или "cpu"
+  save_checkpoint_every: 5
+
+analysis:
+  fill_threshold_low: 35  # критически пусто (%)
+  fill_threshold_high: 90  # полностью заполнено (%)
+
+visualization:
+  box_color: [0, 0, 255]  # красный для пустых зон
+  box_thickness: 2
+  font_scale: 0.5
