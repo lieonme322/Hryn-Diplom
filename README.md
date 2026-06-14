@@ -1,1 +1,2 @@
-# Hryn-Diplom
+# Auto-detect
+Данные об авторе
